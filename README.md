@@ -11,6 +11,7 @@ Assuntos abordados:
 * Transição de telas com Segue
 
 <div align="left">
+      <h2>Screenshots<h2>
       <h4> - LaunchScreen <h4>  
      <img src="https://user-images.githubusercontent.com/88335633/130883900-5c8de4b2-12d3-4e20-b887-4d77cacf3e70.png" width="200px" height="350px" </img>
         <h4> - Home <h4>  
